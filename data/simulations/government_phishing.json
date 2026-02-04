@@ -1,0 +1,32 @@
+{
+  "url": "https://gov-kr-tax-refund.com/claim",
+  "is_phishing": true,
+  "risk_score": 0.95,
+  "detected_brand": "government",
+  "reason": [
+    "🚨 강력 위험: 정부 사이트와 96.1% 유사하나 공식 도메인(.go.kr)이 아님",
+    "'gov' 키워드를 포함한 비공식 도메인",
+    "세금 환급 사칭 피싱 패턴",
+    "HTTPS 인증서 발급일: 3일 전"
+  ],
+  "details": {
+    "domain": "gov-kr-tax-refund.com",
+    "is_official_domain": false,
+    "url_analysis": {
+      "phishing_probability": 0.923,
+      "is_suspicious": true,
+      "risk_level": "critical"
+    },
+    "visual_analysis": {
+      "similarity": 0.961,
+      "matched_brand": "government",
+      "embedding_distance": 0.039
+    },
+    "whois": {
+      "created_date": "2024-01-27",
+      "registrar": "Namecheap",
+      "registrant_country": "Unknown"
+    }
+  },
+  "analysis_timestamp": "2024-01-30T16:45:00Z"
+}

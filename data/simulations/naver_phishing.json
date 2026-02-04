@@ -1,0 +1,32 @@
+{
+  "url": "https://naver-login-security.com/verify",
+  "is_phishing": true,
+  "risk_score": 0.92,
+  "detected_brand": "naver",
+  "reason": [
+    "🚨 강력 위험: 'naver' 사이트와 94.2% 유사하나 공식 도메인이 아님",
+    "'naver' 키워드를 포함한 비공식 도메인",
+    "URL 패턴 분석 결과 피싱 의심 (확률: 87.3%)",
+    "도메인 생성일: 7일 전 (신규 도메인)"
+  ],
+  "details": {
+    "domain": "naver-login-security.com",
+    "is_official_domain": false,
+    "url_analysis": {
+      "phishing_probability": 0.873,
+      "is_suspicious": true,
+      "risk_level": "critical"
+    },
+    "visual_analysis": {
+      "similarity": 0.942,
+      "matched_brand": "naver",
+      "embedding_distance": 0.058
+    },
+    "whois": {
+      "created_date": "2024-01-23",
+      "registrar": "NameCheap Inc.",
+      "registrant_country": "Unknown"
+    }
+  },
+  "analysis_timestamp": "2024-01-30T15:30:00Z"
+}

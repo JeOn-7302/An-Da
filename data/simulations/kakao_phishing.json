@@ -1,0 +1,32 @@
+{
+  "url": "https://kakaotalk-gift.event-page.com/win",
+  "is_phishing": true,
+  "risk_score": 0.88,
+  "detected_brand": "kakao",
+  "reason": [
+    "🚨 강력 위험: 'kakao' 사이트와 91.5% 유사하나 공식 도메인이 아님",
+    "'kakao' 키워드를 포함한 비공식 도메인",
+    "과도한 서브도메인 사용",
+    "의심스러운 이벤트/경품 페이지"
+  ],
+  "details": {
+    "domain": "kakaotalk-gift.event-page.com",
+    "is_official_domain": false,
+    "url_analysis": {
+      "phishing_probability": 0.812,
+      "is_suspicious": true,
+      "risk_level": "high"
+    },
+    "visual_analysis": {
+      "similarity": 0.915,
+      "matched_brand": "kakao",
+      "embedding_distance": 0.085
+    },
+    "whois": {
+      "created_date": "2024-01-20",
+      "registrar": "GoDaddy",
+      "registrant_country": "Unknown"
+    }
+  },
+  "analysis_timestamp": "2024-01-30T14:20:00Z"
+}
